@@ -2,11 +2,9 @@
 
 ### 👨‍💻 Author/s: [Anton Reyes](https://github.com/AGR-Yes)
 
-##### **--** Project Status: **In Progress** **--**
+##### **--** Project Status: **Complete** **--**
 
-<!---
-![Alt text](image link here)
---->
+###### *Note: This project is just for fun since I'm fond of trains.*
 
 ---
 
@@ -20,7 +18,7 @@ As of May 2023, the objective of this project is to predict the KPI's for the re
 ### 📓 Notebooks
 | Notebook | Description | Status |
 |-------------|-------------|:-------------:|
-| `main.ipynb` |  Main notebook for processing and analyzing the datasets | **In Progress** |
+| `main.ipynb` |  Main notebook for processing and analyzing the datasets | **Complete** |
 
 ### 📓 Datasets
 | Dataset | Description |
@@ -53,20 +51,6 @@ More detailed introduction
 #### [Light Rail Transit Authority](https://www.lrta.gov.ph/key-performance-indicator/)
 > The **LRT**'s (Light Rail Transit) website dedictes a page that shows the Key Performance Indicators for their trains since the year 2018
 
-### 📝 Problems Faced
->* Insert problems
-
----
-
-<!---
-## 🖼️ Project Screenshots (if applicable)
-![Alt text](image link)
-
-
-## 📋 Needs of this project
-- insert needs
---->
-
 ---
 
 ## 🤲🏽 Contributing
@@ -89,4 +73,7 @@ First off, thanks for considering to contribute to this project! Contributions a
 ---
 
 ## 📬 Contact Me
-> ### *[Platform](URL)*
+### [Email](AntonReyes.work@gmail.com)
+### [LinkedIn](www.linkedin.com/in/anton-r-501b12136/)
+### [Portfolio](https://agrstudios.wixsite.com/portfolio/)
+### [Discord](https://discord.gg/v4PzDC2R6T)
